@@ -1,0 +1,46 @@
+/* Custom CSS */
+.navbar {
+  height: 100px;
+}
+
+.navbar-brand img {
+  height: 100px;
+  width: 100px;
+}
+
+/* Profile Section */
+.profile-container {
+  margin: 20px auto;
+}
+
+.profile-image {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+
+.profile-info-left h2 {
+  margin: 0;
+  padding: 0;
+  font-size: 24px;
+}
+
+.profile-info-left p {
+  margin-top: 10px;
+}
+
+.profile-info-right h2 {
+  margin: 0;
+  padding: 0;
+  font-size: 24px;
+}
+
+/* Footer */
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #f8f9fa;
+  text-align: center;
+}
